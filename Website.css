@@ -1,0 +1,29 @@
+*
+{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+.h1{
+
+    position: absolute;
+    top: 450px;
+    left: 40%;
+}
+.row{
+    /* height: 200px; */
+    display: flex;
+    
+}
+#s{
+    text-align: center;
+}
+#f1
+{
+    background-color: black;
+    height: 100px;
+}
+#s1
+{
+   text-align: center;
+  padding: 33px;
+}
